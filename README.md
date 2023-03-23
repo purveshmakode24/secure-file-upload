@@ -1,2 +1,2 @@
 # secure-file-upload
-i3systems Assignment for Backend DEV
+i3systems case study for a Backend DEV
